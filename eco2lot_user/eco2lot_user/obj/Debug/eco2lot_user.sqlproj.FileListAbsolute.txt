@@ -1,0 +1,10 @@
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\bin\Debug\eco2lot_user.dacpac
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\bin\Debug\eco2lot_user.dll
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\bin\Debug\eco2lot_user.pdb
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\obj\Debug\eco2lot_user.sqlproj.AssemblyReference.cache
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\obj\Debug\Model.xml
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\obj\Debug\refactor.xml
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\obj\Debug\postdeploy.sql
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\obj\Debug\predeploy.sql
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\obj\Debug\eco2lot_user.dll
+C:\git\eco2lot_user\eco2lot_user\eco2lot_user\obj\Debug\eco2lot_user.pdb
